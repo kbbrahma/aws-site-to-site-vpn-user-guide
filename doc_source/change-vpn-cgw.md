@@ -15,5 +15,5 @@ You can change the customer gateway of your Site\-to\-Site VPN connection by usi
 1. For **Target Customer Gateway ID**, choose the ID for the customer gateway that you want to use for the connection\.
 
 **To change the customer gateway using the command line or API**
-+ [ModifyVpnTunnelC](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/ApiR_ModifyVpnTunnelC.html) \(Amazon EC2 Query API\)
++ [ModifyVpnTunnel](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/ApiR_ModifyVpnTunnelC.html) \(Amazon EC2 Query API\)
 + [modify\-vpn\-tunnel](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpn-tunnel.html) \(AWS CLI\)
